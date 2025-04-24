@@ -1,0 +1,66 @@
+body{
+   
+    background-color: #b3261e;
+}
+h1{
+    font-size: 1.5em;
+        margin-bottom: 8px;
+        color: #fff;
+}
+.hello{
+    align-items: center;
+    display: flex;
+    text-align: center;
+    /* background-image: url(./images/hybrid.svg); */
+}
+.primarybuttons{
+    background-color: #b3261e;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    width: 100px;
+    border-width:1px 1px 1px 1px;
+    font-size: .875em;
+
+}
+.primarybuttons:hover{
+    background-color: #ea4335;
+}
+
+.paragraphs{
+    font-size: .95em;
+        line-height: 1.61em;
+        margin-top: 8px;
+        color:#ffff;
+        text-align: justify;
+        margin-top: 20px;
+}
+.mylink{
+    font-size: .95em;
+        line-height: 1.61em;
+        margin-top: 8px;
+        color:#ffff;
+}
+.mybutton{
+    background-color: #fff;
+    border-color: white;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+    width: 140px;
+    border-width:1px 1px 1px 1px;
+}
+.mybutton a{
+text-decoration: none;
+font-size: .875em;
+}
+.deviation{
+    margin-top:50px;
+}
+.last-button{
+display: flex;
+align-items: flex-end;
+justify-content: end;
+font-family: 'Segoe UI', Tahoma, sans-serif;
+ }
